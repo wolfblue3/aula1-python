@@ -1,0 +1,8 @@
+print('olá, bem vindo ao meu programa, pufavor fale seu nome')
+nome = input('nome')
+print('olá, ' + nome + ' bem vindo')
+print('fale seu dia, mes, e ano, que vc naçeu')
+dia = input('dia que vc naceu = ')
+mes = input('mes em que vc naçeu = ')
+ano = input('ano em que vc naçeu = ')
+print('bom, ola ' + nome + ', então vc naceu dia ' + dia + ', no mes de ' + mes + ', e no ano de ' + ano + ', certo ')
